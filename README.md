@@ -29,12 +29,14 @@ This project illustrates how **time complexity** directly impacts algorithm effi
 
 
 Compile the code:  
+```
 g++ searches.cpp -o searches
+```
 
-Run the program:  
+Run the program:
+```
 ./searches
+```
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
  
 © 2025 Yana Annt. All rights reserved.
