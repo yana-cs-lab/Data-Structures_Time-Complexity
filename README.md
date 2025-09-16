@@ -28,10 +28,10 @@ This project illustrates how **time complexity** directly impacts algorithm effi
    git clone https://github.com/YanaAnnt/Data-Structures_Time-Complexity.git
 
 
-Compile the code:
+Compile the code:  
 g++ searches.cpp -o searches
 
-Run the program:
+Run the program:  
 ./searches
 
 
