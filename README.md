@@ -34,6 +34,7 @@ g++ searches.cpp -o searches
 Run the program:  
 ./searches
 
-
-
-✨ Created as part of my Computer Science degree coursework on Data Structures & Algorithms. 
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+ 
+© 2025 Yana Annt. All rights reserved.
