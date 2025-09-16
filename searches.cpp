@@ -1,6 +1,3 @@
-//ID: 323607457 - Yana Antonets
-//ID: 214303661 - Shahar Akiva
-
 #include <iostream>
 #include <vector>
 #include <random>
@@ -146,6 +143,7 @@ int Search3(int V[], int m, int x, int& comparisons) {
     else {
         high = m - 1;
     }
+
 
 
     while (low <= high) {
