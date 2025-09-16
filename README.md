@@ -24,8 +24,8 @@ This project illustrates how **time complexity** directly impacts algorithm effi
 
 ## How to Run▶️
 1. Clone the repository:
-bash
-git clone https://github.com/<your-username>/<repo-name>.git
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
 
 Compile the code:
 g++ searches.cpp -o searches
