@@ -13,10 +13,10 @@ This project demonstrates the performance differences between three search algor
 - Tracks and outputs the average number of comparisons for each algorithm.  
 
 ## Example Output 🖥️
-200 <= n <= 300
-Search1: 150.23
-Search2: 8.42
-Search3: 6.17
+200 <= n <= 300  
+Search1: 150.23  
+Search2: 8.42  
+Search3: 6.17  
 
 
 ## Purpose 🚀
